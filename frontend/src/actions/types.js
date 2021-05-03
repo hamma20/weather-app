@@ -1,0 +1,6 @@
+export const GET_NAMES_SUCCESS = 'GET_NAMES_SUCCESS';
+export const GET_NAMES_FAIL = 'GET_NAMES_FAIL';
+export const GET_WEATHER_SUCCESS = 'GET_WEATHER_SUCCESS';
+export const GET_WEATHER_FAIL = 'GET_WEATHER_FAIL';
+export const SET_ALERT = 'SET_ALERT';
+export const REMOVE_ALERT = 'REMOVE_ALERT';
